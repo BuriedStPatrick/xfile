@@ -1,0 +1,14 @@
+{
+  "name": "xfile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "electron-app/main.js",
+  "dependencies": {
+    "electron": "^1.6.2"
+  },
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "patrick christensen",
+  "license": "ISC"
+}
